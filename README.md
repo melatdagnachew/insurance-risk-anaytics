@@ -39,3 +39,14 @@ This project analyzes historical car insurance data for AlphaCare Insurance Solu
 - Insurance risk varies significantly across provinces and vehicle types.
 - Claims distributions are highly skewed with extreme outliers.
 - Certain vehicle makes exhibit substantially higher claim severity.
+
+## Data Version Control (DVC)
+
+This project uses DVC (Data Version Control) to ensure reproducibility and versioning of insurance datasets.
+
+### DVC Setup
+
+Initialize DVC:
+
+```bash
+dvc init
