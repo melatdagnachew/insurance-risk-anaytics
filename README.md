@@ -27,3 +27,15 @@ This project analyzes historical car insurance data for AlphaCare Insurance Solu
 - SHAP
 - DVC
 - GitHub Actions
+
+## Key Metrics
+
+- Loss Ratio = TotalClaims / TotalPremium
+- Margin = TotalPremium - TotalClaims
+
+## Key Findings
+
+- The portfolio loss ratio exceeded 100%, indicating profitability challenges.
+- Insurance risk varies significantly across provinces and vehicle types.
+- Claims distributions are highly skewed with extreme outliers.
+- Certain vehicle makes exhibit substantially higher claim severity.
