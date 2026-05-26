@@ -1,0 +1,6 @@
+Hypothesis,Test,P-Value,Decision
+Province Risk Difference,T-Test,0.03883632811925487,Reject H0
+Zip Code Risk Difference,T-Test,0.6958684520599336,Fail to Reject H0
+Zip Code Margin Difference,T-Test,0.1959089836855574,Fail to Reject H0
+Gender Claim Severity Difference,T-Test,0.6760156776445874,Fail to Reject H0
+Gender Claim Frequency Difference,Chi-Square,0.026570248768437138,Reject H0
